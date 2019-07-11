@@ -4,4 +4,4 @@ My  first repository
 
 Learning to use GitHub through RStudio
 
-Another change and another pushadding a line
+A newer, better change (we hope)
